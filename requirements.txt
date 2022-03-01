@@ -1,0 +1,4 @@
+nltk
+bs4
+gensim
+pandas
