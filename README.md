@@ -1,6 +1,6 @@
 # nlp-22w
 
-This repository is maintained by Benjamin Winjum as a store of educational NLP materials.
+This repository is maintained by Benjamin J. Winjum as a store of educational NLP materials.
 
 ## Interacting with the materials
 
